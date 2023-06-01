@@ -1,0 +1,33 @@
+{
+  "name": "babel-discover-react-components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinfacc/babel-discover-react-components.git"
+  },
+  "author": "Martin Facciuto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinfacc/babel-discover-react-components/issues"
+  },
+  "homepage": "https://github.com/martinfacc/babel-discover-react-components#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.21.5",
+    "@babel/core": "^7.22.1",
+    "@babel/parser": "^7.22.4",
+    "@babel/plugin-proposal-class-properties": "^7.18.6",
+    "@babel/plugin-proposal-object-rest-spread": "^7.20.7",
+    "@babel/plugin-syntax-jsx": "^7.21.4",
+    "@babel/preset-env": "^7.22.4",
+    "@babel/preset-react": "^7.22.3",
+    "@babel/traverse": "^7.22.4",
+    "@babel/types": "^7.22.4",
+    "babel-eslint": "^10.1.0"
+  }
+}
